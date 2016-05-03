@@ -3,6 +3,13 @@
 
 based on work by [Brett Terpstra](http://brettterpstra.com/2013/02/12/uop-psdn-s-plo-on-w/)
 
+Use the hot key ^ ⌥ ⌘ U or the key word "Down Under".
+The hotkey takes the text in the frontmost application.
+Selected text gets replaced.  
+Copies also to the clipboard.  
+
+
+![](screenshot.png)  
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
